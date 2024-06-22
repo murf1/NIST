@@ -1,3 +1,5 @@
+*** Updated version for NIST CSF 2.0 can be found here: https://github.com/murf1/NIST-CSF-2.0 ***
+
 ![NISF CSF Banner](https://user-images.githubusercontent.com/13479057/228096944-0ffddc2d-6348-41aa-b6b3-78537ae41707.png)
 
 NIST CSF CMM XLS
@@ -19,4 +21,4 @@ Resources:
 https://www.nist.gov/cyberframework
 
 
-Please note this has been adapted from brianwifaneye/NIST-CSF
+Please note this has been modified and adapted from brianwifaneye/NIST-CSF
